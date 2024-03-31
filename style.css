@@ -1,0 +1,15 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: #e23c3c;
+  color: white;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 100px;
+}
+::selection {
+  color: yellow;
+}
